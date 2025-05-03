@@ -8,11 +8,9 @@ export default function Home() {
 
   return (
     <>
+    
     <Card/>
-    <br />
-<p>cambiossssssssss</p>
-    <br />
-    <Card/>
+
     </>
   );
 }
